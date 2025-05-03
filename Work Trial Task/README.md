@@ -54,3 +54,4 @@ The plot contains the cumulative cost of purchasing 5,000 shares, a relatively s
 
 In summary, while the strategies are indeed distinct in logic and behavior, the venue setup and visual scaling make them appear deceptively similar in the output plot.
 
+By Lily Zhang
